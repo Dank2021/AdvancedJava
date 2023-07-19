@@ -1,0 +1,22 @@
+
+
+En este paquete se implementan varias estructuras con diferentes caracteristicas
+
+ HashSet: Se asegura que no existan valores unicos y no tiene un orden predeterminado.
+
+ TreeSet: Se asegura que no existan valores unicos y tienen un orden predeterminado segun el dato (Alfabetico, Numerico, etc).
+
+ LinkedHashSet: Se asegura que no existan valores unicos y tiene un orden predeterminado segun el orden de adicion a la coleccion.
+
+
+ Entre los conceptos mas importantes, se encuentra el hecho particular de los metodos .equals() y .hashCode(). Que responden a la necesidad
+ de no admitir datos repetidos en Colecciones o Maps en los que como wrapper o elementos de estas estructuras, se tengan objetos.
+
+                                equals() y hashCode()
+ Pues estas estructuras ya implementadas, de ninguna manera van a lograr adivinar de que manera queremos identificar nuestros objetos como
+ repetidos o no. Que es la principal funcion del metodo .equals(), por otra parte el metodo .hasCode() es un complemento del .equals() que
+ nos permite sincronizar nuestras preferencias sobre repeticion o no de un objeto, con los bloques de memoria o la direccion de memoria.
+
+ Empatando un objeto creado con una unica direccion de memoria ademas de re dirigir todas las direcciones de memoria de todos los futuros
+ objetos iguales a él, que se puedan crear en el futuro.
+

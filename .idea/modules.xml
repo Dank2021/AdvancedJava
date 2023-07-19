@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/Cadenas/Cadenas.iml" filepath="$PROJECT_DIR$/src/Cadenas/Cadenas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Comparadores/Comparadores.iml" filepath="$PROJECT_DIR$/src/Comparadores/Comparadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Ejercicios/Ejercicios.iml" filepath="$PROJECT_DIR$/src/Ejercicios/Ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/EstructurasCollections/EstructurasCollections.iml" filepath="$PROJECT_DIR$/src/EstructurasCollections/EstructurasCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Fechas/Fechas.iml" filepath="$PROJECT_DIR$/src/Fechas/Fechas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Genericos/Genericos.iml" filepath="$PROJECT_DIR$/src/Genericos/Genericos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/InstanceOf/InstanceOf.iml" filepath="$PROJECT_DIR$/src/InstanceOf/InstanceOf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/InterfacesFuncionales/InterfacesFuncionales.iml" filepath="$PROJECT_DIR$/src/InterfacesFuncionales/InterfacesFuncionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAvanzado.iml" filepath="$PROJECT_DIR$/JavaAvanzado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Lambdas/Lambdas.iml" filepath="$PROJECT_DIR$/src/Lambdas/Lambdas.iml" />
+    </modules>
+  </component>
+</project>
